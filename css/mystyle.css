@@ -1,0 +1,40 @@
+.bg-ivory{
+	background-color: #f4e8c1;
+	color: white;
+}
+.bg-azul{
+	background-color: #a0c1b8;
+	color:white;
+}
+.bg-bolivia{
+	background-color: #709fb0;
+	color: white;
+}
+.bg-jacaranda{
+	background-color: #726a95;
+	color: white;
+}
+.bg-malbec{
+	background-color: #57572E;
+	color: white;
+}
+.bg-cover{
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.btn-malbec{
+	background-color: #351f39;
+	color: white;
+}
+.btn-malbec:hover{
+	background-color: #726a95;
+
+}
+.btn-ivory{
+	background-color: #f4e8ca;
+    color: #709fb0;
+}
+.btn-ivory:hover{
+	color: #cd464d;
+}
